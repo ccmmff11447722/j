@@ -2,6 +2,9 @@
 
 
 # Transparency and Consent Framework
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ccmmff11447722/j.svg)](https://greenkeeper.io/)
+
 Hosted in this repository are the technical specifications for the IAB Europe Transparency and Consent Framework (TCF) that will help the digital advertising industry interpret, and comply with EU rules on data protection and privacy - notably the General Data Protection Regulation (GDPR).
 
 #### IAB Europe Transparency and Consent Framework v1.1
