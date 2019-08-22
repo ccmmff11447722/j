@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "In-App Reference/Mobile In-App Reference Implementation/package.json",
+        "reference/package.json"
+      ]
+    }
+  }
+}
