@@ -102,7 +102,7 @@
     "query-string": "^6.8.2",
     "react-codemirror2": "^6.0.0",
     "react-router-dom": "^5.0.1",
-    "serve": "^11.1.0",
+    "serve": "^10.1.2",
     "whatwg-fetch": "^3.0.0"
   }
 }
